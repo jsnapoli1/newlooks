@@ -1,0 +1,14 @@
+Package: com.iglifs.package
+Name: iGlifs
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A modern tweak design!
+Maintainer: JB <gr8outdoorboy@gmail.com>
+Author: JB <gr8outdoorboy@gmail.com>
+Section: Theme
+Depends: Snowboard
+Filename: debs/com.iglifs.package_iphoneos-arm_1.0.0.deb
+Size: 29,823,854
+MD5sum: 
+SHA1: 
+SHA256: 
