@@ -1,0 +1,9 @@
+Package: com.newlooks.iglifs
+Name: iGlifs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons!
+Author: J Nap
+Maintainer: J Nap
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
